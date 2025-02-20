@@ -1,0 +1,5 @@
+.venv
+.idea
+images
+data.csv
+send_email.py
